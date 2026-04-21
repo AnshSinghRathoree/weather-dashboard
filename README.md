@@ -1,12 +1,12 @@
- 🌦️ Weather Dashboard
+ # Weather Dashboard
 
 A weather web application built using Python and Streamlit that fetches real-time weather data using the OpenWeather API.
 
-#Live Demo
+# Live Demo
 
 https://weather-dashboardapp.streamlit.app/
 
- #Features
+# Features
 
 * Search weather by city name
 * Temperature and feels-like temperature
@@ -16,7 +16,7 @@ https://weather-dashboardapp.streamlit.app/
 * Forecast preview
 * Simple responsive UI
 
-#Tech Stack
+# Tech Stack
 
 * Python
 * Streamlit
