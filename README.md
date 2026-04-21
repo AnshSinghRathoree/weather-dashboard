@@ -26,7 +26,7 @@ https://weather-dashboardapp.streamlit.app/
 # Run Locally
 
 
-pip install -r requirements.txt
+pip install -r requirements.txt 
 streamlit run advanced_weather.py
 
 
