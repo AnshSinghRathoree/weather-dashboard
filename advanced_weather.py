@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from datetime import datetime
 
-api_key = st.secrets["7d6605ba24309230dc3410242e77eaa7"]
+api_key = st.secrets[""API_KEY""]
 
 current_url = "https://api.openweathermap.org/data/2.5/weather"
 forecast_url = "https://api.openweathermap.org/data/2.5/forecast"
