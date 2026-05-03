@@ -39,4 +39,4 @@ streamlit run advanced_weather.py
 
 # Author
 
-Ansh Singh Rathoree
+Ansh Singh Rathore
